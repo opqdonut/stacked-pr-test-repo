@@ -1,1 +1,2 @@
 this line from initial commit
+this line from branch A
